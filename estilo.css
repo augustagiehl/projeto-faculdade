@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #fbb2a1;
+    font-family: Times, 'Times New Roman', serif;
+}
+
+   
+#conteudo{
+    background: white;
+    margin: 0 auto;
+    width: 750px;
+}
+
+#cabecalho{
+    background: #fce4e1;
+    text-align: center;
+    padding: 10px;
+}
+
